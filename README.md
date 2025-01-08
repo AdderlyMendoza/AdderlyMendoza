@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Bienvenido a mi perfil!" alt="Title"></img>
 </div>
 
 ---
@@ -32,17 +32,26 @@
 <!-- HABILIDADES -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Habilidades
 
+<br>
 
-## Lenguajes de Programación
+
+**Lenguajes de Programación**
+
 [![My Skills](https://skillicons.dev/icons?i=python,php,js,cpp)](https://skillicons.dev)
 
-## Desarrollo Frontend
+
+**Desarrollo Frontend**
+
 [![My Skills](https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
-## Desarrollo Backend
+
+**Desarrollo Backend**
+
 [![My Skills](https://skillicons.dev/icons?i=laravel,django,postman,mysql)](https://skillicons.dev)
 
-## Herramientas
+
+**Herramientas**
+
 [![My Skills](https://skillicons.dev/icons?i=git,figma,anaconda,github,ai,npm,opencv,postgres,tensorflow,vite,vscode,)](https://skillicons.dev)
 
 <br>
@@ -54,49 +63,48 @@
 </p>
 
 <br>
-<br>
 
 ---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contáctame
 
 <br>
+<br>
 
 
 <p align="center">
 
 <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/shourya-sharma-65b5351a7/" target="_blank">
-    <img align="center" alt="AdderlyMendoza | Linkedin" width="24px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/adderly-mendoza-nina-1407702a5/" target="_blank">
+    <img align="center" alt="AdderlyMendoza | Linkedin" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/linkedin.svg" />
   </a> &nbsp;&nbsp;
 
 <!-- gmail -->
-  <a href="aderly19xd@gmail.com" >
-    <img align="center" alt="AdderlyMendoza | Gmail" width="26px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/gmail.svg" />
+  <a href="mailto:aderly19xd@gmail.com" >
+    <img align="center" alt="AdderlyMendoza | Gmail" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/gmail.svg" />
   </a> &nbsp;&nbsp;
 
   <!-- portafolio -->
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Shourya742" target="_blank">
-    <img align="center" alt="AdderlyMendoza | Portafolio" width="26px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/portafolio.svg" />
+  <a href="https://adderlymendoza.github.io/Portafolio/" target="_blank">
+    <img align="center" alt="AdderlyMendoza | Portafolio" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/portafolio.svg" />
   </a> &nbsp;&nbsp;
   
 <!-- github -->
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Shourya742" target="_blank">
-    <img align="center" alt="AdderlyMendoza | GitHub" width="26px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/github.svg" />
+  <a href="https://github.com/AdderlyMendoza" target="_blank">
+    <img align="center" alt="AdderlyMendoza | GitHub" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/github.svg" />
   </a> &nbsp;&nbsp;
   
-<p>
+</p>
 
+<br>
 
 <div align="center">
   Gracias por visitar mi perfil, ten un buen día 🙋‍♂️ <br/>
   &copy; 2025 | Adderly Mendoza Nina
 </div>
 
-<br>
-
 ---
 
-Edición: 08/01/2025
+*Edición: 08/01/2025*
 
 
