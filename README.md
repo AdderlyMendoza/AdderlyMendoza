@@ -4,15 +4,13 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Shourya Sharma** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently the Final year student at **IIT Kharagpur**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
-- :sweat_smile: I'm a intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :credit_card: My full name is **Adderly Mendoza** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: I'm Sistem Engineer
+- :books: My major is **Software Engineering | Full Stack Developer**  
+- :earth_asia: I'm living now in **Puno, Perú**
+- :monocle_face: Soy un apasionado por la programación y el desarrollo web
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
-
+  
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 <br>
@@ -68,30 +66,26 @@
 </p>
 <br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Para más informácion por favor contáctame por
 
 <p align="center">
-  <a href="sshourya17@gmail.com" >
+  <a href="aderly19xd@gmail.com" >
     <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/shourya-sharma-65b5351a7/" target="_blank">
+  <a href="[https://www.linkedin.com/in/shourya-sharma-65b5351a7/](https://www.linkedin.com/in/adderly-mendoza-nina-1407702a5/)" target="_blank">
     <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Shourya742" target="_blank">
+  <a href="[https://profile-summary-for-github.herokuapp.com/user/Shourya742](https://github.com/AdderlyMendoza)" target="_blank">
     <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
+
+  
   
 <p>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Shourya Sharma
+  :heart_eyes: Gracias por visitar mi perfil, ten un buen día:wink: <br/>
 </div>
 
----
-
-Credits: [Shourya Sharma](https://github.com/Shourya742)
-
-Last Edited on: 22/01/2023
