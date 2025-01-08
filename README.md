@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm <strong class="text-blue-500">&lt;/ADDERLY.M&gt;</strong>
+<h1 align="center">Hi, I'm <strong style="color:rgb(96 165 250 / var(--tw-bg-opacity, 1)); border=2px">&lt;/ADDERLY.M&gt;</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Bienvenido a mi perfil!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%rgb(186 230 253 / var(--tw-bg-opacity, 1))&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!" alt="Titulo"></img>
 </div>
 
 ---
