@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SemiBold+600+Italic&size=40&duration=1&pause=1&color=0B2E6B&background=482DFF00&center=true&vCenter=true&repeat=false&width=270&lines=%3C%2FADDERLY.M%3E" alt="Typing SVG" /></a>
+<h1 align="center">Hi, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SemiBold+600+Italic&size=35&duration=1&pause=1&color=0B2E6B&background=482DFF00&center=true&vCenter=true&repeat=false&width=232&height=30&lines=%3C%2FADDERLY.M%3E" alt="Typing SVG" /></a>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
