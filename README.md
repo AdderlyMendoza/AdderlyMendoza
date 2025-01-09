@@ -5,9 +5,7 @@
 <br>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%#0047AB)&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!" alt="Titulo"></img>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A7C7E7&width=435&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
 
 <br>
 
