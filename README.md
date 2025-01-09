@@ -7,11 +7,9 @@
 
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=50&pause=1000&color=A7C7E7&width=435&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1&width=435&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
 
 </div>
-
-<br>
 
 ---
 	
