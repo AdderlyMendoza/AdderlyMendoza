@@ -1,4 +1,4 @@
-### <p align="center" style="font-size:40px;" > Hi, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SemiBold+600+Italic&size=35&duration=1&pause=1&color=1E90FF&background=482DFF00&center=true&vCenter=true&repeat=false&width=232&height=30&lines=%3C%2FADDERLY.M%3E" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+### <p align="center" style="font-size:40px;" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=normal&size=50&letterSpacing=-0.05em&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=185&height=55&lines=Hi%2C+I%C2%B4m" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SemiBold+600+Italic&size=35&duration=1&pause=1&color=1E90FF&background=482DFF00&center=true&vCenter=true&repeat=false&width=232&height=30&lines=%3C%2FADDERLY.M%3E" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 
 <div align="center">
 
