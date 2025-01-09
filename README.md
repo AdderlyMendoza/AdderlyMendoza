@@ -71,29 +71,16 @@
 <br>
 
 
-<p align="center">
-
-<!-- linkedin -->
-  <a href="https://www.linkedin.com/in/adderly-mendoza-nina-1407702a5/" target="_blank">
-    <img align="center" alt="AdderlyMendoza | Linkedin" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/linkedin.svg" />
-  </a> &nbsp;&nbsp;
-
-<!-- gmail -->
-  <a href="mailto:aderly19xd@gmail.com" >
-    <img align="center" alt="AdderlyMendoza | Gmail" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/gmail.svg" />
-  </a> &nbsp;&nbsp;
-
-  <!-- portafolio -->
-  <a href="https://adderlymendoza.github.io/Portafolio/" target="_blank">
-    <img align="center" alt="AdderlyMendoza | Portafolio" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/portafolio.svg" />
-  </a> &nbsp;&nbsp;
-  
-<!-- github -->
-  <a href="https://github.com/AdderlyMendoza" target="_blank">
-    <img align="center" alt="AdderlyMendoza | GitHub" width="50px" src="https://github.com/AdderlyMendoza/AdderlyMendoza/blob/main/github.svg" />
-  </a> &nbsp;&nbsp;
-  
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/adderly-mendoza-nina-1407702a5/">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" /></a>
+  <a href="https://github.com/AdderlyMendoza">
+    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" /></a>
+  <a href="https://adderlymendoza.github.io/Portafolio/">
+    <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=000000" alt="Portafolio" /></a>
+  <a href="mailto:aderly19xd@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" /></a>
+</div>
 
 <br>
 
