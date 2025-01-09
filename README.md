@@ -73,13 +73,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adderly-mendoza-nina-1407702a5/">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" /></a>
-  <a href="https://github.com/AdderlyMendoza">
-    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" /></a>
-  <a href="https://adderlymendoza.github.io/Portafolio/">
-    <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=000000" alt="Portafolio" /></a>
+    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn" /></a>
   <a href="mailto:aderly19xd@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" /></a>
+    <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" /></a>
+  <a href="https://adderlymendoza.github.io/Portafolio/">
+    <img src="https://img.icons8.com/?size=50&id=1349&format=png&color=FFFFFF" alt="Portafolio" /></a>
+ <a href="https://github.com/AdderlyMendoza">
+    <img src="https://img.icons8.com/?size=50&id=12599&format=png&color=FFFFFF" alt="GitHub" /></a>
 </div>
 
 <br>
