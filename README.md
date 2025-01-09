@@ -4,9 +4,10 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%rgb(186 230 253 / var(--tw-bg-opacity, 1))&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!" alt="Titulo"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%#0047AB)&size=50&center=true&vCenter=true&height=60&width=600&lines=System+Engineer;Full+Stack+Developer;Bienvenido+a+mi+perfil!" alt="Titulo"></img>
 </div>
 
+<br>
 ---
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
