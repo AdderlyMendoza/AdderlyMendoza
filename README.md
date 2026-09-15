@@ -17,12 +17,12 @@
 <br>
 
 - :school: Soy `Ingeniero de Sistemas` egresado de la [Escuela Profesional de Ingeniería de Sistemas](https://www.facebook.com/EPIS.UNA/?locale=es_LA) de la [Universidad Nacional del Altiplano](https://www.portal.unap.edu.pe).
-- :student: Actualmente estoy estudiando una `Maestría en Ingeniería de Sistemas`
+- :student: Estudié una `Maestría en Ingeniería de Sistemas`
 - :technologist: Me encanta desarrollar sistemas para mejorar `Problemas`.
 - :computer: Incursione en la Programación competitiva y actualmente resuelvo código en `Leetcode`, `OmegaUP` para mejorar mi lógica de programación.
 - :nerd_face: Siempre `Aprendiendo nuevas tecnologías`.
 - :thinking: Estoy en busca de `Trabajo` como `Desarrollador Full Stack`, adjunto [LinkedIn](https://www.linkedin.com/in/adderly-mendoza-nina-1407702a5/).
-- :boom: Puedes visitar mi [Portafolio](https://adderlymendoza.github.io/Portafolio/).
+- :boom: Puedes visitar mi [Portafolio](https://adderly.me/).
 <br>
 <br>
 
@@ -76,7 +76,7 @@
     <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn" /></a>
   <a href="mailto:aderly19xd@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" /></a>
-  <a href="https://adderlymendoza.github.io/Portafolio/" target="_blank">
+  <a href="https://adderly.me/" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=1349&format=png&color=FFFFFF" alt="Portafolio" /></a>
  <a href="https://github.com/AdderlyMendoza" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=62856&format=png&color=FFFFFF" alt="GitHub" /></a>
@@ -86,11 +86,11 @@
 
 <div align="center">
   Gracias por visitar mi perfil, ten un buen día 🙋‍♂️ <br/>
-  &copy; 2025 | Adderly Mendoza Nina
+  &copy; 2026 | Adderly Mendoza Nina
 </div>
 
 ---
 
-*Edición: 09/01/2025*
+*Edición: 15/09/2026*
 
 
